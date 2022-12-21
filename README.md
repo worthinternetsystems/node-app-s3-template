@@ -12,3 +12,6 @@ A simple way to deploy a free static site to an S3 bucket.
     - AWS_PRODUCTION_BUCKET_NAME
     - AWS_REGION
     - AWS_SECRET_ACCESS_KEY
+    
+## This example
+Hosted at : http://node-static-template.s3-website.eu-west-2.amazonaws.com/
